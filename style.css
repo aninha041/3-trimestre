@@ -1,4 +1,6 @@
 :root{
     --fundo: #FFE4C4;
-    --cor-texto:#800000;
+    --cor-texto:#000000;
+    --frente-cartao:#0095ff;
+    --verso-cartao: #46eded;
 }
