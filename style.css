@@ -4,3 +4,7 @@
     --frente-cartao:#0095ff;
     --verso-cartao: #46eded;
 }
+
+body{
+    background-color: var(--fundo);
+}
