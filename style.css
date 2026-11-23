@@ -1,9 +1,9 @@
 :root{
-    --fundo:#48bcf1;
+    --fundo:#e5fabd;
     --cor-texto:#ffffff;
     --cor-texto-preto:#000000;
-    --frente-cartao:#0e41a0;
-    --verso-cartao:#2070a1;
+    --frente-cartao:#fcff3d;
+    --verso-cartao:#e0f75d;
 }
 
 body{
